@@ -1,0 +1,23 @@
+﻿<Window x:Class="Pattern_MVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pattern_MVVM"
+        xmlns:vm="clr-namespace:Pattern_MVVM.ViewModels"   
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="400">
+    <Window.DataContext>
+        <vm:MainWindowViewModel/>
+    </Window.DataContext>
+    <StackPanel>
+        <TextBlock Text="Введите радиус окружности:"/>
+        <TextBox Text="{Binding Path=Radius}"/>
+        <Button Content="Рассчитать длину окружности" Command="{Binding Path=PoschitaemDlinu}"/>
+        <TextBlock Text="Длина окружности равна:"/>
+        <TextBox Text="{Binding Path=Dlina}"/>
+        <Button Content="Рассчитать  площадь окружности" Command="{Binding Path=PoschitaemPloshad}"/>
+        <TextBlock Text="Площадь окружности равна:"/>
+        <TextBox Text="{Binding Path=Ploshad}"/>
+    </StackPanel>
+</Window>

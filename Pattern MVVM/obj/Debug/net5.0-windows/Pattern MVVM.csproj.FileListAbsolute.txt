@@ -1,0 +1,23 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\bin\Debug\net5.0-windows\Pattern MVVM.exe
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\bin\Debug\net5.0-windows\Pattern MVVM.deps.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\bin\Debug\net5.0-windows\Pattern MVVM.runtimeconfig.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\bin\Debug\net5.0-windows\Pattern MVVM.runtimeconfig.dev.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\bin\Debug\net5.0-windows\Pattern MVVM.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\bin\Debug\net5.0-windows\ref\Pattern MVVM.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\bin\Debug\net5.0-windows\Pattern MVVM.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\obj\Debug\net5.0-windows\Pattern MVVM.csproj.AssemblyReference.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\obj\Debug\net5.0-windows\App.g.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\obj\Debug\net5.0-windows\Pattern MVVM_MarkupCompile.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\obj\Debug\net5.0-windows\Pattern MVVM_MarkupCompile.lref
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\obj\Debug\net5.0-windows\Pattern MVVM.g.resources
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\obj\Debug\net5.0-windows\Pattern MVVM.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\obj\Debug\net5.0-windows\Pattern MVVM.AssemblyInfoInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\obj\Debug\net5.0-windows\Pattern MVVM.AssemblyInfo.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\obj\Debug\net5.0-windows\Pattern MVVM.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\obj\Debug\net5.0-windows\Pattern MVVM.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\obj\Debug\net5.0-windows\ref\Pattern MVVM.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\obj\Debug\net5.0-windows\Pattern MVVM.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\obj\Debug\net5.0-windows\Pattern MVVM.genruntimeconfig.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\obj\Debug\net5.0-windows\Views\MainWindow.g.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\obj\Debug\net5.0-windows\Views\MainWindow.baml
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 19\Pattern MVVM\Pattern MVVM\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
